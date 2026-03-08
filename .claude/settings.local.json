@@ -1,0 +1,11 @@
+{
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "filesystem"
+  ],
+  "permissions": {
+    "allow": [
+      "Bash(stat:*)"
+    ]
+  }
+}
